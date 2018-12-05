@@ -1,0 +1,14 @@
+/* Large desktops and laptops */
+/* Landscape tablets and medium desktops */
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+  .gear {
+    display: none;
+  }
+  #project .project-image {
+    display: none;
+  }
+}
+
+/* Landscape phones and portrait tablets */
+/* Portrait phones and smaller */
